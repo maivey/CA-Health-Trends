@@ -5,7 +5,7 @@ Test if people who live near parks, museums, and medical centers have a lower li
 
 ### Hypothetical: Hired by the World Health Organization to study the correlation between life expectancy (within a zip code) and surroundings (parks/ museums/medical providers) within that zip code.
 
-### Limitations:
+### Limitations:
 
 - no control over heredity, physical condition, nutrition, and occupation.
 
@@ -19,4 +19,11 @@ Test if people who live near parks, museums, and medical centers have a lower li
 
 - Limited by what a location Search mean. ( ex hospitals VS clinics can be in the same search)  
 
+### Hypothesis:
+- Null: People who live near parks/museums/MP have a  lower life expectancy.
+- Alternative: People who live near parks/museums/MP do not have lower life expectancy.
+ - ** each surrounding tested separately
+ - testing at alpha = 0.05
+
+																																																			  People who live near People who 
 

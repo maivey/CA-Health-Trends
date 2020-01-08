@@ -22,6 +22,3 @@ This project tests whether California residents who live near parks, museums, an
 - Alternative: People who live near parks/museums/MP do not have lower life expectancy.
  - tested at alpha = 0.05
  - ** each surrounding tested separately
-
-																																																			  People who live near People who 
-
